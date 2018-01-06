@@ -1,2 +1,2 @@
 # hello_world
-Just starting...
+Just starting... Getting ready on GitHub
